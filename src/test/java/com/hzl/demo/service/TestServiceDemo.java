@@ -19,6 +19,7 @@ public class TestServiceDemo {
     @Test
     public void helloTest() {
         testService.hello();
+        System.out.println("123");
     }
 
 }
